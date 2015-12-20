@@ -23,3 +23,4 @@ if __name__ == '__main__':
     for key in soup.find_all('a'):
         print key.get('class'), key.get("href")
     print soup.findAll('a')
+
