@@ -1,0 +1,20 @@
+city:曼彻斯特
+
+date:05-05		day:阴天(19°C )		night:局部多云( 8°C)
+
+date:05-06		day:局部多云(20°C )		night:多云( 9°C)
+
+date:05-07		day:零散雷雨(22°C )		night:零散雷雨( 12°C)
+
+date:05-08		day:局部多云(23°C )		night:零散雷雨( 12°C)
+
+date:05-09		day:局部多云(22°C )		night:少云( 12°C)
+
+date:05-10		day:局部多云(20°C )		night:局部多云( 11°C)
+
+date:05-11		day:局部多云(19°C )		night:局部多云( 9°C)
+
+date:05-12		day:局部多云(18°C )		night:局部多云( 8°C)
+
+date:05-13		day:零散阵雨(17°C )		night:局部多云( 7°C)
+
